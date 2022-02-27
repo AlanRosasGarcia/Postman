@@ -1,5 +1,5 @@
 Un protocolo especifica reglas en la comunicacion entre dos entes, en este caso entre dos computudoras.
-
+    
 HTTP (Hyper Text Transfer Protocol) fue creado especificamente para la web.
 
 Una de las cosas que especifica el protocolo HTTP son los verbos:
